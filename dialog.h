@@ -17,6 +17,7 @@ public:
 
 private:
     Ui::Dialog *ui;
+    QDialog* hd3;
 };
 
 #endif // DIALOG_H
